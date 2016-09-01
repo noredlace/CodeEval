@@ -1,2 +1,0 @@
-# CodeEval
-Code Eval Challenges
